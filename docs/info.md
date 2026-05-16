@@ -18,3 +18,9 @@ Explain how to use your project
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+How it works
+Use the DIP switch to control the 7-segment display
+How to test
+Use the DIP switch to control the 7-segment display
+External hardware
+7-segment Display
